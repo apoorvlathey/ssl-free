@@ -1,4 +1,8 @@
 node_modules/
+
 keys/
 .env
+
+temp/
+
 output/

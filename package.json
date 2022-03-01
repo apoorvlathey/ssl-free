@@ -4,6 +4,11 @@
   "main": "index.js",
   "author": "apoorvlathey",
   "license": "MIT",
+  "scripts": {
+    "gen:accountKey": "ts-node ./genAccountKey",
+    "gen:domainKey": "ts-node ./genDomainKey",
+    "start": "ts-node ./index"
+  },
   "dependencies": {
     "@lapo/asn1js": "^1.2.3",
     "atob": "^2.1.2",
