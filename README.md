@@ -8,7 +8,7 @@ This repo automates this process and you get SSL certificate in just a minute.
 
 ## Installation
 
-0. Make sure you have `openssl` installed
+0. Make sure you have `openssl` installed and using Node 17.6.0+
 1. Clone this repo
 2. Run `npm i` or `yarn`
 3. Create new folder `keys`
