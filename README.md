@@ -11,7 +11,7 @@ This repo automates this process and you get SSL certificate in just a minute.
 0. Make sure you have `openssl` installed and using Node 17.6.0+
 1. Clone this repo
 2. Run `npm i` or `yarn`
-3. Create new folder `keys`
+3. Create new folders `keys` & `temp`.
 4. `cp .env.example .env` and set variable values.
 
 - `DOMAIN_PEM_FILENAME` and `ACCOUNT_PEM_FILENAME` are the names of pem files that need to be copied inside the `keys` folder.<br />
